@@ -1,2 +1,4 @@
-# Research-Paper-Implementation-with-Pre-trained-Model
-ResNet50 implementation for CIFAR-10
+
+## Dataset
+CIFAR-10 (Python version)  
+https://www.cs.toronto.edu/~kriz/cifar-10-python.tar.gz
